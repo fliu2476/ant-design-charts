@@ -36,7 +36,7 @@
     "test:live": "DEBUG_MODE=1 jest --watch ./tests/issues/1143-spec.tsx --no-cache"
   },
   "dependencies": {
-    "@antv/g2plot": "^2.2.11",
+    "@antv/g2plot": "git@github.com:fliu2476/G2Plot.git",
     "react-content-loader": "^5.0.4"
   },
   "peerDependencies": {
